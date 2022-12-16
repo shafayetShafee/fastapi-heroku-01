@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastappi.middleware.cors import CORSMiddleware
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import pickle
 import json
